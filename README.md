@@ -1,4 +1,4 @@
-https://circleci.com/gh/Zyad1999/Operationalize-a-Machine-Learning-Microservice-API/tree/master.svg?style=svg
+[![CircleCI](https://circleci.com/gh/Zyad1999/Operationalize-a-Machine-Learning-Microservice-API/tree/master.svg?style=svg)](https://circleci.com/gh/Zyad1999/Operationalize-a-Machine-Learning-Microservice-API/tree/master)
 
 ## Project Overview
 
